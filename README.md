@@ -178,9 +178,9 @@ Reorder recommendation computed
 Results displayed on dashboard
 
 ##  Demo & Video
-Demo Link:-inventra-ai.onrender.com
-Demo Video:-https://drive.google.com/file/d/1HE49_rYSlcaFw3qPWW_BQIECPLM8rN74/view?usp=sharing
-GitHub Repo:-https://github.com/Naman67780/Inventra-AI/tree/4eb19f30ad27a441c7dc0c3fe6daf9363bfb31d7
+Demo Link:- inventra-ai.onrender.com
+Demo Video:- https://drive.google.com/file/d/1HE49_rYSlcaFw3qPWW_BQIECPLM8rN74/view?usp=sharing
+GitHub Repo:- https://github.com/Naman67780/Inventra-AI/tree/4eb19f30ad27a441c7dc0c3fe6daf9363bfb31d7
 
 ## Hackathon Deliverables Summary
 
