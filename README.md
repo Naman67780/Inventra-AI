@@ -176,3 +176,81 @@ Future demand forecast generated
 Confidence interval calculated
 Reorder recommendation computed
 Results displayed on dashboard
+
+##  Demo & Video
+Demo Link:-inventra-ai.onrender.com
+Demo Video:-https://drive.google.com/file/d/1HE49_rYSlcaFw3qPWW_BQIECPLM8rN74/view?usp=sharing
+GitHub Repo:-https://github.com/Naman67780/Inventra-AI/tree/4eb19f30ad27a441c7dc0c3fe6daf9363bfb31d7
+
+## Hackathon Deliverables Summary
+
+During the hackathon, we successfully developed Inventra AI, an intelligent inventory forecasting web application designed to help small businesses and retail stores optimize stock management.
+
+Key deliverables include:
+
+A fully functional web dashboard for inventory insights.
+
+CSV data upload functionality for sales data analysis.
+
+Automated demand forecasting based on historical patterns.
+
+Interactive data visualizations including charts and analytics.
+
+A live deployed application accessible through a public URL.
+
+A GitHub repository containing the complete source code and documentation.
+
+A demo video demonstrating the platform's workflow and features.
+
+The solution enables users to analyze sales trends and make smarter stocking decisions, reducing overstock and stockouts.
+
+## Future Scope & Scalability
+Short-Term
+
+Improve forecasting accuracy using advanced machine learning models.
+
+Add real-time inventory tracking.
+
+Implement user authentication and store management.
+
+Enable automatic restock recommendations based on demand predictions.
+
+Improve dashboard analytics with more detailed insights.
+
+Long-Term
+
+Integrate with POS systems and ERP platforms.
+
+Build a mobile application for store owners.
+
+Add AI-powered demand prediction using deep learning models.
+
+Support multi-store inventory management.
+
+Implement cloud-based analytics for large retail chains.
+
+## Known Limitations
+
+Forecasting currently relies on limited historical data patterns.
+
+The system does not yet support real-time inventory synchronization.
+
+CSV data format must follow a specific structure for proper analysis.
+
+Large datasets may increase processing time.
+
+Advanced AI models and automated supply chain integration are not yet implemented.
+
+nventra AI has the potential to significantly improve inventory efficiency for small and medium-sized businesses.
+
+## Expected impact includes:
+
+Reduced stock wastage through better demand prediction.
+
+Prevention of stockouts, ensuring products remain available.
+
+Data-driven decision making for inventory managers.
+
+Improved operational efficiency for retail stores.
+
+By leveraging data analytics and forecasting, the platform helps businesses optimize inventory levels and reduce operational costs.
